@@ -1,0 +1,5 @@
+favorite movie: Green Mile
+favorite TV series: Witcher
+favorite food: steak
+favorite season: winter
+country: Italy
